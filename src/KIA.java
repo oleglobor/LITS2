@@ -1,6 +1,6 @@
 public class KIA extends Car{
     public KIA(){
-        super ("KIA");
+        super ("KIA"); //Don`t know
     }
 
 }

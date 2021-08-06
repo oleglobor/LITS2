@@ -1,5 +1,5 @@
 public class Scoda extends Car{
-    public Scoda(){
+    public Scoda(){ //good car, for good price
         super("Scoda");
     }
 
