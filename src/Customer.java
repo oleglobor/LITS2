@@ -1,4 +1,4 @@
-import java.util.Random;
+//It`s user, bro
 
 public class Customer  {
     private String name;
